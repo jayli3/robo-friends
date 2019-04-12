@@ -1,6 +1,14 @@
 ## robo-friends
 Simple search and filter web app using React.
 
+##
+To improve it:
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
+
+##
+To deploy React onto GitHub, refer to: https://codeburst.io/deploy-react-to-github-pages-to-create-an-amazing-website-42d8b09cd4d
 
 ## Available Scripts
 
