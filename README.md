@@ -8,6 +8,9 @@ To improve it:
 3. Run `npm start`
 
 ##
+Used Tachyons to save time on styling:
+npm install --save-dev tachyons
+##
 To deploy React onto GitHub, refer to: https://codeburst.io/deploy-react-to-github-pages-to-create-an-amazing-website-42d8b09cd4d
 
 ## Available Scripts
