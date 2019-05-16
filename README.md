@@ -1,5 +1,5 @@
 ## robo-friends
-Live: https://jayli3.github.io/robo-friends/ <br><br>
+Live: https://jayli3n.github.io/robo-friends/ <br><br>
 Simple search and filter web app using React.
 
 ##
